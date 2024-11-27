@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-react/static/css/main.6e67f99c.css",
-    "main.js": "/frontend-react/static/js/main.fde603b2.js",
+    "main.js": "/frontend-react/static/js/main.8492a93b.js",
     "static/js/453.44cceb41.chunk.js": "/frontend-react/static/js/453.44cceb41.chunk.js",
     "static/media/computational_thinking.png": "/frontend-react/static/media/computational_thinking.89f7a25f083b58269ac2.png",
     "static/media/step.png": "/frontend-react/static/media/step.2829ac8a87f10c8bdb6b.png",
@@ -12,11 +12,11 @@
     "static/media/icon.png": "/frontend-react/static/media/icon.ffa3e0dd754dc923e50b.png",
     "index.html": "/frontend-react/index.html",
     "main.6e67f99c.css.map": "/frontend-react/static/css/main.6e67f99c.css.map",
-    "main.fde603b2.js.map": "/frontend-react/static/js/main.fde603b2.js.map",
+    "main.8492a93b.js.map": "/frontend-react/static/js/main.8492a93b.js.map",
     "453.44cceb41.chunk.js.map": "/frontend-react/static/js/453.44cceb41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e67f99c.css",
-    "static/js/main.fde603b2.js"
+    "static/js/main.8492a93b.js"
   ]
 }
