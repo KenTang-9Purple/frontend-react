@@ -1,7 +1,7 @@
 {
   "name": "develop-react",
   "version": "0.1.0",
-  "homepage": "https://kentang-9purple.github.io/develop-react/",
+  "homepage": "https://kentang-9purple.github.io/frontend-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
