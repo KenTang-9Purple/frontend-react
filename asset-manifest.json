@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/develop-react/static/css/main.942a572a.css",
+    "main.js": "/develop-react/static/js/main.eed59f10.js",
+    "static/js/453.44cceb41.chunk.js": "/develop-react/static/js/453.44cceb41.chunk.js",
+    "static/media/computational_thinking.png": "/develop-react/static/media/computational_thinking.89f7a25f083b58269ac2.png",
+    "static/media/step.png": "/develop-react/static/media/step.2829ac8a87f10c8bdb6b.png",
+    "static/media/UML.png": "/develop-react/static/media/UML.3467dce55549bc9934b4.png",
+    "static/media/hcj.png": "/develop-react/static/media/hcj.228ac8499123bf183b86.png",
+    "static/media/coding.png": "/develop-react/static/media/coding.dff3246f86b372043fc1.png",
+    "static/media/web_development.jpg": "/develop-react/static/media/web_development.54c40787d51645b554b8.jpg",
+    "static/media/icon.png": "/develop-react/static/media/icon.ffa3e0dd754dc923e50b.png",
+    "index.html": "/develop-react/index.html",
+    "main.942a572a.css.map": "/develop-react/static/css/main.942a572a.css.map",
+    "main.eed59f10.js.map": "/develop-react/static/js/main.eed59f10.js.map",
+    "453.44cceb41.chunk.js.map": "/develop-react/static/js/453.44cceb41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942a572a.css",
+    "static/js/main.eed59f10.js"
+  ]
+}
