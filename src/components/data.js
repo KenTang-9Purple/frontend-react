@@ -9,7 +9,7 @@ export const pageLinks=[
     {id:2, href:"#about", text:"關於網站開發"},
     {id:3, href:"#values", text:"我們的核心價值"},
     {id:4, href:"#pillars", text:"四大支柱"},
-    {id:5, href:"https://kentang-9purple.github.io/frontend-react", text:"非React SPA版"},
+    {id:5, href:"https://kentang-9purple.github.io/frontend/", text:"非React SPA版"},
     {id:6, href:"https://kentang-9purple.github.io/frontend-react-router/", text:"React MPA版"}
 ];
 
