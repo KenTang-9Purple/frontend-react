@@ -8,7 +8,9 @@ export const pageLinks=[
     {id:1, href:"#home", text:"首頁"},
     {id:2, href:"#about", text:"關於網站開發"},
     {id:3, href:"#values", text:"我們的核心價值"},
-    {id:4, href:"#pillars", text:"四大支柱"}
+    {id:4, href:"#pillars", text:"四大支柱"},
+    {id:5, href:"https://kentang-9purple.github.io/frontend-react", text:"非React SPA版"},
+    {id:6, href:"https://kentang-9purple.github.io/frontend-react-router/", text:"React MPA版"}
 ];
 
 export const pillars=[
@@ -28,7 +30,9 @@ export const values=[
 
 export const iconLinks=[
     {id:1,href:"https://www.facebook.com/9purple.tech/",icon:"fa-brands fa-facebook"},
-    {id:2,href:"https://wa.me/85265875282?text=你好，九紫科技，我想查詢服務的",icon:"fa-brands fa-whatsapp"},
+    {id:2,href:"https://wa.me/85265875282?text=你好，九紫科技",icon:"fa-brands fa-whatsapp"},
     {id:3,href:"https://www.threads.net/@9purple.tech",icon:"fa-brands fa-threads"},
-    {id:4,href:"https://www.instagram.com/9purple.tech",icon:"fa-brands fa-instagram"}
+    {id:4,href:"https://www.instagram.com/9purple.tech",icon:"fa-brands fa-instagram"},
+    {id:5,href:"https://github.com/KenTang-9Purple",icon:"fa-brands fa-github"}
+
 ];
