@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-react/static/css/main.6e67f99c.css",
-    "main.js": "/frontend-react/static/js/main.8492a93b.js",
+    "main.css": "/frontend-react/static/css/main.13ab0665.css",
+    "main.js": "/frontend-react/static/js/main.564352ea.js",
     "static/js/453.44cceb41.chunk.js": "/frontend-react/static/js/453.44cceb41.chunk.js",
     "static/media/computational_thinking.png": "/frontend-react/static/media/computational_thinking.89f7a25f083b58269ac2.png",
     "static/media/step.png": "/frontend-react/static/media/step.2829ac8a87f10c8bdb6b.png",
@@ -11,12 +11,12 @@
     "static/media/web_development.jpg": "/frontend-react/static/media/web_development.54c40787d51645b554b8.jpg",
     "static/media/icon.png": "/frontend-react/static/media/icon.ffa3e0dd754dc923e50b.png",
     "index.html": "/frontend-react/index.html",
-    "main.6e67f99c.css.map": "/frontend-react/static/css/main.6e67f99c.css.map",
-    "main.8492a93b.js.map": "/frontend-react/static/js/main.8492a93b.js.map",
+    "main.13ab0665.css.map": "/frontend-react/static/css/main.13ab0665.css.map",
+    "main.564352ea.js.map": "/frontend-react/static/js/main.564352ea.js.map",
     "453.44cceb41.chunk.js.map": "/frontend-react/static/js/453.44cceb41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e67f99c.css",
-    "static/js/main.8492a93b.js"
+    "static/css/main.13ab0665.css",
+    "static/js/main.564352ea.js"
   ]
 }
